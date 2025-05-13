@@ -3,7 +3,7 @@
 A sleek and modern SkillSphere website built using **HTML & Tailwind CSS** for fast, responsive UI development. Designed to provide a smooth user experience with minimalistic styling and efficient component-based design.  
 
 ## 🚀 Live Demo  
-Check out the live demo: [SkillSphere Live](https://akhilsoni04.github.io/Responsive-SkillSphere-Web-App/)  
+Check out the live demo: [SkillSphere Live](https://skillsphere-education-platform.netlify.app/) 
 
 ## 📌 Features  
 - Fully responsive design using **Tailwind CSS**  
